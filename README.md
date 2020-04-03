@@ -1,1 +1,1 @@
-# studious-barnacle
+# JavaScript Practice
